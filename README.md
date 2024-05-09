@@ -25,7 +25,7 @@
 
 ## Méthodologie
 
-Pour répondre aux besoins commerciaux, un modèle en étoile est utilisé, reliant les différentes tables de données. Vous pouvez consulter le résultat dans le fichier "Modèle.png" pour voir comment les tables sont connectées.
+Pour répondre aux besoins commerciaux, un modèle en étoile est utilisé, reliant les différentes tables de données. Vous pouvez consulter le résultat dans le fichier **"Modèle.PNG"** pour voir comment les tables sont connectées.
 
 Astuces pour construire le modèle en étoile :
 
@@ -41,7 +41,9 @@ Astuces pour construire le modèle en étoile :
 Après le déploiement du modèle, nous créons les indicateurs qui peuvent être intéressants pour l'étude. Par exemple :
 
 **Chiffre d'Affaires (CA) :** Quantité vendue * Montant unitaire.
+
 **Objectifs de vente :** Objectifs fixés pour chaque magasin, chaque année, mois et famille d'article.
+
 **Performance :** Ratio du chiffre d'affaires réalisé par rapport à l'objectif (CA / Objectif).
 
 Ces KPIs fournissent une vision globale de la performance des ventes et permettent une analyse approfondie des résultats par rapport aux objectifs fixés.
