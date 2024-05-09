@@ -1,3 +1,5 @@
+![Qlik Logo](https://github.com/mustaphaoulhaj/DataViz_QlikSense/assets/127968969/7bd4d87d-d200-4bf6-97da-eec864014a99)
+
 # La visualisation des ventes sous Qlik Sense
 
 ## Les données disponibles 
