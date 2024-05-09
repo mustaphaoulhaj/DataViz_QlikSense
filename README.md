@@ -1,5 +1,5 @@
 
-(DataViz_QlikSense/Qlik Logo.jpg)
+!(DataViz_QlikSense/Qlik Logo.jpg)
 
 
 
