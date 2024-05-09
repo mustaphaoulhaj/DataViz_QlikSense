@@ -1,7 +1,5 @@
 # La visualisation des ventes sous Qlik Sense
 
-![Qlik Logo](Qlik Logo.jpg)
-
 ## Les données disponibles 
 
 1. **Table Facture :**
