@@ -1,8 +1,3 @@
-
-![Qlik Logo](mustaphaoulhaj/DataViz_QlikSense/Qlik Logo.jpg)
-
-
-
 # La visualisation des ventes sous Qlik Sense
 
 ## Les données disponibles 
